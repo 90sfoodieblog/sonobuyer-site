@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sonobuyer.com/sitemap.xml
